@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aliavi_info", "aliavi_info\aliavi_info.vcxproj", "{CCA49B5D-27DE-412D-933A-A4449BFAF80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Debug|ARM64.Build.0 = Debug|ARM64
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Debug|x64.ActiveCfg = Debug|x64
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Debug|x64.Build.0 = Debug|x64
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Debug|x86.Build.0 = Debug|Win32
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Release|ARM64.Build.0 = Release|ARM64
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Release|x64.ActiveCfg = Release|x64
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Release|x64.Build.0 = Release|x64
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Release|x86.ActiveCfg = Release|Win32
+		{CCA49B5D-27DE-412D-933A-A4449BFAF80A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7293D7B-FCC9-4129-8725-A1AC35423D21}
+	EndGlobalSection
+EndGlobal
