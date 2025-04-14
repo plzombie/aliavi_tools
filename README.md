@@ -1,6 +1,6 @@
 # aliavi_tools
 
-A project to study ALIAVI **.MTV** format. This is not the format described in (this)(https://en.wikipedia.org/wiki/AMV_video_format) article but similar.
+A project to study ALIAVI **.MTV** format. This is not the format described in [this](https://en.wikipedia.org/wiki/AMV_video_format) article but similar.
 
 The format consists of frames with 48-bytes header. Each header starts with `ALIAVI` signature. The body of frame consists of audio data and video data.
 
